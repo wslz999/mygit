@@ -1,3 +1,4 @@
 a.txt
 new branch
-master
+feature
+
