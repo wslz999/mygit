@@ -1,3 +1,9 @@
-a.txt	
 wo shi ke long de
 wo zai cgit li
+new branch
+feature
+dev branch
+dev branch2
+gai de diyici
+ddd
+
