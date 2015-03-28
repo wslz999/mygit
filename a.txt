@@ -1,6 +1,6 @@
-a.txt
 new branch
 feature
 dev branch
 dev branch2
 ni cai wo shi shui
+wo shi ke long de
